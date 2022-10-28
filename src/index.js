@@ -12,5 +12,3 @@ root.render(
     </BrowserRouter>
   </React.StrictMode>
 );
-
-//goto: 51:00 min

@@ -27,8 +27,8 @@ export const mockDataTeam = [
   },
   {
     id: 4,
-    name: 'Anya Stark',
-    email: 'anyastark@gmail.com',
+    name: 'Arya Stark',
+    email: 'aryastark@gmail.com',
     age: 16,
     phone: '(921)425-6742',
     access: 'admin',
